@@ -1,0 +1,3 @@
+CafeOle;Bochum;Klein;Hat keine BÃ¤ckerei;Milchkaffe, Espresso
+CafeQuijano;Herz;Bunt;Hat eine BÃ¤ckerei;Latte Macchiato, Karamell
+CafeOktober;Bochum;Teuer;Hat BÃ¤ckerei;Capucchino, Americano
